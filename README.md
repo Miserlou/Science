@@ -1,3 +1,5 @@
+![](https://user-images.githubusercontent.com/139987/39017111-5fb8dcc4-43f0-11e8-91e8-63acccba8732.png)
+
 # Science
 
 Doing data science with Jupyter!
